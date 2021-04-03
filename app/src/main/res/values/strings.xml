@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permissions Copycat</string>
+    <string name="record_string">Record Permission</string>
+    <string name="success_toast">Success!</string>
+    <string name="microphone_access_required">Please let us use your microphone kthxbai yayyy</string>
+    <string name="microphone_permission_not_available">That\'s not cool but OK, no microphone</string>
+    <string name="microphone_permission_available">Yeeeeet, you\'re cool thxxxxx</string>
+    <string name="ok_toast">OK</string>
+</resources>
